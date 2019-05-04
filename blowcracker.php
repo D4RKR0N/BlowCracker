@@ -10,6 +10,7 @@ echo ("
  | |_) | | (_) \ V  V /| |___| | | (_| | (__|   <  __/ |   
  |____/|_|\___/ \_/\_/  \____|_|  \__,_|\___|_|\_\___|_|   
 
+>> OBS: Todas hashs que forem decryptadas com sucesso, serão gravadas em 'cracked.txt'.
                                                            
 >> Salve: TkaTheGod - Xin0x  - Clandestine - Feist - Plastyne - Charlie BCA - Aj4x - Chacal.
 
